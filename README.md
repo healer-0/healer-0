@@ -1,6 +1,6 @@
 # Hello, I'm RAHUL! 👋
 
-Highly motivated and skilled Computer Science undergraduate | MERN Developer 
+Highly motivated and skilled Computer Science undergraduate | Full Stack Developer 
 
 ## About Me
 
@@ -19,8 +19,9 @@ I am a passionate and dedicated Computer Science undergraduate with a strong foc
 
  - Programming Languages:C++, JavaScript ,Python
  - Front-end Development: HTML, CSS, JavaScript, ReactJs
- - Back-end Development: NodeJs
- - Database: MySQL, MongoDB
+ - Back-end Development: NodeJs,Python
+ - Database: MySQL, MongoDB, Postgres
+ - FrameWork & Libraries: Pandas, Django, React, FastAPI, Flask
  - Version Control: Git
 
 ## Projects
